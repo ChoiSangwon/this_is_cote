@@ -7,4 +7,4 @@ N-=100*(N//100)
 res+=N//50
 N-=50*(N//50)
 res+=N//10
-print(res)
+print(res) 
