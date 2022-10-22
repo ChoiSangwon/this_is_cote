@@ -10,3 +10,4 @@ for i in arr:
         continue
     count+=1
 print(res)
+ 
