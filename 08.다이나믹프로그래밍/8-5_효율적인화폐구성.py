@@ -1,6 +1,3 @@
-from re import L
-
-
 N,M = map(int,input().split())
 dp=[10001 for _ in range(M+1)]
 dp[0]=0
