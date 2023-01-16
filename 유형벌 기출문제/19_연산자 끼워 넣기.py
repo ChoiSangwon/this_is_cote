@@ -1,4 +1,3 @@
-from itertools import permutations
 N = int(input())
 arr = list(map(int,input().split()))
 a,b,c,d = map(int,input().split())
