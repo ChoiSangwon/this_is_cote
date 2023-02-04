@@ -16,4 +16,4 @@ for i in range(1, n):
         count[2]+=1
         next5 = arr[count[2]]*5
         
-print(arr)  
+print(arr)     
