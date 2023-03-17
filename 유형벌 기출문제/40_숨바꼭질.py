@@ -23,4 +23,3 @@ while q:
             check[i]=count+1
             q.append((i,count+1))
 print(check.index(max(check)),max(check)-1,check.count(max(check)))
-    
